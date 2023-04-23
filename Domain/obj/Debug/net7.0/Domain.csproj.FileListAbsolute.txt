@@ -1,0 +1,12 @@
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/hanif/Programming/C#/udemy/myproject/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
